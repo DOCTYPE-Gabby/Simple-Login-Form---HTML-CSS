@@ -1,0 +1,19 @@
+👩🏼‍💻 Formulário de Login Simples Usando Apenas HTML e CSS:
+
+Este é um formulário de login simples, construído apenas com HTML e CSS. O formulário inclui estilos básicos, uma imagem de fundo e um efeito de desfoque no contêiner de login para dar um toque visual mais sofisticado. É bem simples, mas, sinceramente, quase enlouqueci tentando codificá-lo, levou 2 dias para terminar!
+
+🚀 Funcionalidades:
+
+♦️ Fundo desfocado para o contêiner de login, proporcionando um visual moderno.
+♦️ Inclui campos de entrada para e-mail e senha.
+♦️ Botão para envio do formulário, estilizado com efeitos ao passar o mouse.
+♦️ Link para "Esqueceu a senha?" e um chamado para ação para usuários sem conta se cadastrarem.
+
+✨ Tecnologias Utilizadas:
+
+♦️ HTML
+♦️ CSS
+
+❓ Objetivo do Projeto:
+
+Este projeto foi criado para praticar layout e estilo com HTML e CSS, focando em criar um design atrativo sem JavaScript ou outros frameworks.
