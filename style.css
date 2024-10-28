@@ -1,0 +1,121 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Mulish:wght@200..1000&display=swap');
+
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+    text-decoration: none;
+    font-family: "Mulish", serif;
+}
+
+body {
+    width: 100vw;
+    height: 100vh;
+    background-image: url(Imagens/pexels-fabianwiktor-994605.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.Main-container {
+    width: 350px;
+    height: 320px;
+    background: transparent;
+    backdrop-filter: blur(10px);
+    border-radius: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid rgba(36, 36, 36, 0.556);
+}
+
+h1 {
+    text-align: center;
+    margin-bottom: 18px;
+    font-size: 38px;
+    color: #ffffffb6;
+    font-weight: 800;
+}
+
+img {
+    pointer-events: none;
+    position: absolute;
+    right: 14%;
+    margin-top: 5px;
+    margin-left: 5px;
+}
+
+.Input-container input{
+    width: 100%;
+    height: 30px;
+    border-radius: 15px;
+    position: relative;
+    margin-bottom: 23px;
+    text-indent: 5px;
+    border: 0.5px solid #8b8b8b;
+    background-color: transparent;
+}
+
+input:focus {
+    outline: none;
+}
+
+#Password-p {
+    margin-left: 8px;
+    margin-top: -21px;
+    font-size: 12px;
+    color: black; 
+    text-align: right;
+        
+}
+
+#Password-p a {
+    color: black;
+    margin-right: 8px;
+}
+
+#Password-p a:hover {
+    color: red;
+    text-decoration: underline;
+}
+
+#Enter-btn {
+    margin: 5px 60px;
+    height: 35px;
+    width: 150px;
+    border: none;
+    border-radius: 30px;
+    font-family: "Mulish", serif;
+    font-weight: 600;
+    font-size: 16px;
+    background-color: #ffffffb6;
+    cursor: pointer;
+}
+
+#Enter-btn:hover {
+    text-decoration: underline;
+    background-color: #dddddd;
+}
+
+#Sign-up {
+    display: flex;
+    justify-content: center;
+}
+
+#Sign-up p {
+    color: #000000;
+    font-size: 14px;
+}
+
+#Sign-up a {
+    color: #ffffffb6;
+
+}
+
+#Sign-up a:hover {
+    text-decoration: underline;
+}
